@@ -10,6 +10,7 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
 public class MsDay1AdmissionApplication {
 
 	public static void main(String[] args) {
+		System.out.println("adminssion");
 		SpringApplication.run(MsDay1AdmissionApplication.class, args);
 	}
 
